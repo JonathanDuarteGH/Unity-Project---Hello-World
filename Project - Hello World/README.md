@@ -1,4 +1,4 @@
-# Portfolio Company Clone
+# Hello World - Unity
 
 - This project used Unity and C# to deliver a simple hello world output
 
