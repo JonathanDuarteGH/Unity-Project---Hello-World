@@ -20,7 +20,7 @@ git clone https://github.com/JonathanDuarteGH/ProjectModule5.git
 
 ## How to run the game?
 
-* To run the completed game please download the executable file from google drive [here](https://drive.google.com/drive/folders/1ItiuYnuD4m4QRdXkMt8_8NA7rNchwo53?usp=sharing)
+* To run the completed game please click 'DOWNLOAD ALL' from the google drive cloud [here](https://drive.google.com/drive/folders/1ItiuYnuD4m4QRdXkMt8_8NA7rNchwo53?usp=sharing)
 
 ## Built With
 
