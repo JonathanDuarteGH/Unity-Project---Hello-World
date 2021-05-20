@@ -1,4 +1,4 @@
-# ProjectModule5
+# ProjectGreenBotScript
 
 - This project used Unity to write scripts to make the 3D character progress through the game
 
@@ -13,7 +13,7 @@
 1. Clone the repo
 
 ```
-git clone https://github.com/JonathanDuarteGH/ProjectModule5.git
+git clone https://github.com/JonathanDuarteGH/Unity-Project---Hello-World/tree/development/ProjectGreenBotScript.git
 ```
 
 2. Open Unity Hub and add the file path into the 'Project's' directory
