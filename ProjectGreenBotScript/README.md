@@ -20,7 +20,9 @@ git clone https://github.com/JonathanDuarteGH/Unity-Project---Hello-World/tree/d
 
 ## How to run the game?
 
-* To run the completed game please click 'DOWNLOAD ALL' from the google drive cloud [here](https://drive.google.com/drive/folders/1ItiuYnuD4m4QRdXkMt8_8NA7rNchwo53?usp=sharing)
+* Please click 'DOWNLOAD ALL' from the google drive cloud [here](https://drive.google.com/file/d/1Ass_Vl1TkSNvmfe2ref5F8qe5_QtHQ8u/view?usp=sharing)
+
+* Unzip the folder. Then open the unzipped folder and locate the executable file in order to run the game.
 
 ## Built With
 
